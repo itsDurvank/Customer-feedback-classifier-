@@ -1,0 +1,436 @@
+{"text": "Please add a minimal mode for distraction-free work", "label": "feature_request"}
+{"text": "Why is there no import from Dropbox ?", "label": "complaint"}
+{"text": "The mobile integration docs are lacking", "label": "documentation"}
+{"text": "The webhook examples are outdated", "label": "documentation"}
+{"text": "App crashes when using screen recording", "label": "bug"}
+{"text": "Use Ctrl+Shift+M to toggle dark mode", "label": "usage_tip"}
+{"text": "Use Ctrl+Shift+M to toggle dark mode", "label": "usage_tip"}
+{"text": "The admin console docs need updating", "label": "documentation"}
+{"text": "Please add a focus mode for writing", "label": "feature_request"}
+{"text": "No option to disable typing sounds", "label": "complaint"}
+{"text": "What happens to my data if I cancel ?", "label": "question"}
+{"text": "How do I change the default save location ?", "label": "question"}
+{"text": "How do I change the app language ?", "label": "question"}
+{"text": "App freezes when using split screen", "label": "bug"}
+{"text": "Why can't I sort my own collections ?", "label": "complaint"}
+{"text": "Is there a web version planned ?", "label": "question"}
+{"text": "The new UI animations are smooth", "label": "praise"}
+{"text": "The sample code has typos", "label": "documentation"}
+{"text": "The enterprise API docs are incomplete", "label": "documentation"}
+{"text": "The new search indexing is lightning fast", "label": "praise"}
+{"text": "The enterprise API docs are incomplete", "label": "documentation"}
+{"text": "How do I change the app language ?", "label": "question"}
+{"text": "The new file compression is efficient", "label": "praise"}
+{"text": "Why can't I use my own domain ?", "label": "complaint"}
+{"text": "How do I change the default export format ?", "label": "question"}
+{"text": "Can I share with non-users ?", "label": "question"}
+{"text": "No option to disable auto-capitalization", "label": "complaint"}
+{"text": "This would help us comply with regulations", "label": "other"}
+{"text": "Our workflow would benefit from this", "label": "other"}
+{"text": "The web component docs need examples", "label": "documentation"}
+{"text": "Add support for custom syntax highlighting", "label": "feature_request"}
+{"text": "Our users would benefit from this", "label": "other"}
+{"text": "App crashes when printing documents", "label": "bug"}
+{"text": "Our users would adopt this faster", "label": "other"}
+{"text": "The new search indexing is lightning fast", "label": "praise"}
+{"text": "No way to export my reading history", "label": "complaint"}
+{"text": "The new privacy features are robust", "label": "praise"}
+{"text": "How do I reset all preferences ?", "label": "question"}
+{"text": "The mobile API docs need updates", "label": "documentation"}
+{"text": "The new security features are reassuring", "label": "praise"}
+{"text": "App crashes when recording video", "label": "bug"}
+{"text": "Your support team resolved my issue quickly and professionally.", "label": "praise"}
+{"text": "Press Ctrl+Shift+S to save all tabs", "label": "usage_tip"}
+{"text": "The enterprise API docs are incomplete", "label": "documentation"}
+{"text": "How do I change the default export format ?", "label": "question"}
+{"text": "Video quality drops after 5 minutes", "label": "bug"}
+{"text": "App crashes when recording video", "label": "bug"}
+{"text": "No feedback at the moment.", "label": "other"}
+{"text": "App won't remember sidebar width", "label": "bug"}
+{"text": "Add support for custom font pairings", "label": "feature_request"}
+{"text": "Our analytics show users need this", "label": "other"}
+{"text": "The admin console docs need updating", "label": "documentation"}
+{"text": "Use Ctrl+Shift+M to toggle dark mode", "label": "usage_tip"}
+{"text": "No option to disable auto-capitalization", "label": "complaint"}
+{"text": "Please add a focus mode for reading", "label": "feature_request"}
+{"text": "How do I change the default export format ?", "label": "question"}
+{"text": "Most competitors offer this basic feature", "label": "other"}
+{"text": "App won't remember dark mode setting", "label": "bug"}
+{"text": "Please add a focus mode for reading", "label": "feature_request"}
+{"text": "Use Ctrl+Shift+P to open private window", "label": "usage_tip"}
+{"text": "Is there a way to sync with iCloud ?", "label": "question"}
+{"text": "Swipe down from top to refresh content", "label": "usage_tip"}
+{"text": "Use Ctrl+Shift+M to toggle dark mode", "label": "usage_tip"}
+{"text": "Why is there no import from Google Keep ?", "label": "complaint"}
+{"text": "Please add a read later feature", "label": "feature_request"}
+{"text": "Add support for custom themes", "label": "feature_request"}
+{"text": "Press Ctrl+Shift+S to save all tabs", "label": "usage_tip"}
+{"text": "This would help us onboard clients", "label": "other"}
+{"text": "The new UI animations are smooth", "label": "praise"}
+{"text": "Use Ctrl+Shift+P to open private window", "label": "usage_tip"}
+{"text": "How do I change the default export format ?", "label": "question"}
+{"text": "App freezes when using split screen", "label": "bug"}
+{"text": "Add support for custom emoji sets", "label": "feature_request"}
+{"text": "The new security features are reassuring", "label": "praise"}
+{"text": "This would help us comply with regulations", "label": "other"}
+{"text": "No option to disable typing sounds", "label": "complaint"}
+{"text": "This would help us meet accessibility standards", "label": "other"}
+{"text": "The customer support takes too long to respond.", "label": "complaint"}
+{"text": "Please add a minimal mode for distraction-free work", "label": "feature_request"}
+{"text": "Use Ctrl+Shift+Del to clear browser data", "label": "usage_tip"}
+{"text": "Please add a focus mode for reading", "label": "feature_request"}
+{"text": "The new sharing options are perfect", "label": "praise"}
+{"text": "The new security features are reassuring", "label": "praise"}
+{"text": "How do I change the default export format ?", "label": "question"}
+{"text": "Add support for custom markdown themes", "label": "feature_request"}
+{"text": "Add support for custom syntax highlighting", "label": "feature_request"}
+{"text": "Add support for custom syntax highlighting", "label": "feature_request"}
+{"text": "The new security features are reassuring", "label": "praise"}
+{"text": "Why is there no import from Dropbox ?", "label": "complaint"}
+{"text": "Why is there no import from Google Keep ?", "label": "complaint"}
+{"text": "App freezes when switching accounts", "label": "bug"}
+{"text": "The new security features are reassuring", "label": "praise"}
+{"text": "App won't remember dark mode setting", "label": "bug"}
+{"text": "This might be useful in the future.", "label": "other"}
+{"text": "Add support for custom markdown themes", "label": "feature_request"}
+{"text": "What authentication methods are supported ?", "label": "question"}
+{"text": "How do I change the default export format ?", "label": "question"}
+{"text": "App freezes when loading large files", "label": "bug"}
+{"text": "Please add a minimal mode for distraction-free work", "label": "feature_request"}
+{"text": "The web component docs need examples", "label": "documentation"}
+{"text": "App won't remember dark mode setting", "label": "bug"}
+{"text": "Why is there no import from Dropbox ?", "label": "complaint"}
+{"text": "The new UI animations are smooth", "label": "praise"}
+{"text": "Why is there no iPad version ?", "label": "complaint"}
+{"text": "Use Ctrl+Shift+B to toggle bookmarks bar", "label": "usage_tip"}
+{"text": "The new UI animations are smooth", "label": "praise"}
+{"text": "The new update is phenomenal !", "label": "praise"}
+{"text": "The quickstart guide needs updating", "label": "documentation"}
+{"text": "The admin console docs need updating", "label": "documentation"}
+{"text": "This would help us comply with regulations", "label": "other"}
+{"text": "This would help us retain users", "label": "other"}
+{"text": "Use Ctrl+Shift+N for incognito mode", "label": "usage_tip"}
+{"text": "Our team's productivity depends on this", "label": "other"}
+{"text": "This would help us comply with regulations", "label": "other"}
+{"text": "The web component docs need examples", "label": "documentation"}
+{"text": "The SDK docs need more examples", "label": "documentation"}
+{"text": "Use middle click to open in new tab", "label": "usage_tip"}
+{"text": "The admin console docs need updating", "label": "documentation"}
+{"text": "This would help us meet accessibility standards", "label": "other"}
+{"text": "Add support for custom CSS", "label": "feature_request"}
+{"text": "App won't remember sidebar width", "label": "bug"}
+{"text": "This would help us comply with regulations", "label": "other"}
+{"text": "No option to disable auto-capitalization", "label": "complaint"}
+{"text": "The support team is unhelpful and slow.", "label": "complaint"}
+{"text": "App crashes when recording video", "label": "bug"}
+{"text": "The admin console docs need updating", "label": "documentation"}
+{"text": "Why does the app require so many permissions ?", "label": "complaint"}
+{"text": "The mobile integration docs are lacking", "label": "documentation"}
+{"text": "This would help us meet accessibility standards", "label": "other"}
+{"text": "App won't remember sidebar width", "label": "bug"}
+{"text": "I have been waiting for a response to my ticket for over a week.", "label": "complaint"}
+{"text": "App won't remember sidebar width", "label": "bug"}
+{"text": "This would help us meet accessibility standards", "label": "other"}
+{"text": "Is there a way to sync with Google Drive ?", "label": "question"}
+{"text": "Our users would adopt this faster", "label": "other"}
+{"text": "The new file compression is efficient", "label": "praise"}
+{"text": "Add support for custom syntax highlighting", "label": "feature_request"}
+{"text": "Add support for custom syntax highlighting", "label": "feature_request"}
+{"text": "The new UI animations are smooth", "label": "praise"}
+{"text": "How do I restore from backup ?", "label": "question"}
+{"text": "App won't remember dark mode setting", "label": "bug"}
+{"text": "The new file compression is efficient", "label": "praise"}
+{"text": "This would help us onboard clients faster", "label": "other"}
+{"text": "Our entire team needs this functionality", "label": "other"}
+{"text": "App won't remember dark mode setting", "label": "bug"}
+{"text": "The new file compression is efficient", "label": "praise"}
+{"text": "How do I change the app icon ?", "label": "question"}
+{"text": "I feel ignored by your customer service team.", "label": "complaint"}
+{"text": "No option to disable auto-play videos", "label": "complaint"}
+{"text": "Use Ctrl+Shift+M to toggle dark mode", "label": "usage_tip"}
+{"text": "Pinch to zoom works best for image preview", "label": "usage_tip"}
+{"text": "Can I use Windows Hello for login ?", "label": "question"}
+{"text": "I have contacted support several times with no resolution.", "label": "complaint"}
+{"text": "Is there a way to sync with iCloud ?", "label": "question"}
+{"text": "The new UI animations are smooth", "label": "praise"}
+{"text": "The new security features are reassuring", "label": "praise"}
+{"text": "Press Ctrl+Shift+S to save all tabs", "label": "usage_tip"}
+{"text": "Our analytics show users need this", "label": "other"}
+{"text": "The new file compression is efficient", "label": "praise"}
+{"text": "Add support for custom markdown themes", "label": "feature_request"}
+{"text": "Why is there no import from OneNote ?", "label": "complaint"}
+{"text": "Why is there no import from Google Keep ?", "label": "complaint"}
+{"text": "App randomly logs me out", "label": "bug"}
+{"text": "Is there a student discount ?", "label": "question"}
+{"text": "Our users would adopt this faster", "label": "other"}
+{"text": "This would help us meet accessibility standards", "label": "other"}
+{"text": "This would help us reduce support calls", "label": "other"}
+{"text": "Press Ctrl+0 to reset zoom level", "label": "usage_tip"}
+{"text": "Use Ctrl+Shift+M to toggle dark mode", "label": "usage_tip"}
+{"text": "App freezes when using split view", "label": "bug"}
+{"text": "Right-click any item for context menu", "label": "usage_tip"}
+{"text": "Thank you for listening to user feedback and making improvements!", "label": "praise"}
+{"text": "The admin console docs need updating", "label": "documentation"}
+{"text": "How do I change the default export format ?", "label": "question"}
+{"text": "How do I transfer ownership of a file ?", "label": "question"}
+{"text": "This would help us comply with regulations", "label": "other"}
+{"text": "No option to disable typing sounds", "label": "complaint"}
+{"text": "Press Ctrl+B to bold selected text", "label": "usage_tip"}
+{"text": "Why is there no import from Google Keep ?", "label": "complaint"}
+{"text": "Press Ctrl+0 to reset zoom level", "label": "usage_tip"}
+{"text": "The new search indexing is lightning fast", "label": "praise"}
+{"text": "Add support for custom markdown themes", "label": "feature_request"}
+{"text": "Use Ctrl+Shift+M to toggle dark mode", "label": "usage_tip"}
+{"text": "Add support for custom keyboard shortcuts", "label": "feature_request"}
+{"text": "How do I change the app language ?", "label": "question"}
+{"text": "No option to disable typing sounds", "label": "complaint"}
+{"text": "App won't remember sidebar width", "label": "bug"}
+{"text": "Use Ctrl+Shift+M to toggle dark mode", "label": "usage_tip"}
+{"text": "Our users would adopt this faster", "label": "other"}
+{"text": "This is not a complaint or praise, just a comment.", "label": "other"}
+{"text": "App crashes when recording audio", "label": "bug"}
+{"text": "The new search functionality is blazing fast", "label": "praise"}
+{"text": "Please add a minimal mode for distraction-free work", "label": "feature_request"}
+{"text": "Why is there no search history ?", "label": "complaint"}
+{"text": "Add support for custom markdown themes", "label": "feature_request"}
+{"text": "The instructions in the help section are outdated and confusing.", "label": "complaint"}
+{"text": "Why is there no import from Google Keep ?", "label": "complaint"}
+{"text": "The web component docs need examples", "label": "documentation"}
+{"text": "The new search indexing is lightning fast", "label": "praise"}
+{"text": "Pro tip : swipe left to quickly delete items", "label": "usage_tip"}
+{"text": "The new search indexing is lightning fast", "label": "praise"}
+{"text": "No option to disable annoying popups", "label": "complaint"}
+{"text": "Our security audit requires this change", "label": "other"}
+{"text": "Press Ctrl+0 to reset zoom level", "label": "usage_tip"}
+{"text": "This would help us comply with regulations", "label": "other"}
+{"text": "The new accessibility features are inclusive", "label": "praise"}
+{"text": "Is there a way to sync with iCloud ?", "label": "question"}
+{"text": "The new file compression is efficient", "label": "praise"}
+{"text": "App freezes when using split screen", "label": "bug"}
+{"text": "The enterprise API docs are incomplete", "label": "documentation"}
+{"text": "This would help us meet accessibility standards", "label": "other"}
+{"text": "Why is there no import from Google Keep ?", "label": "complaint"}
+{"text": "Can I use FaceID for login ?", "label": "question"}
+{"text": "The enterprise API docs are incomplete", "label": "documentation"}
+{"text": "The web component docs need examples", "label": "documentation"}
+{"text": "How do I change the default export format ?", "label": "question"}
+{"text": "The app often lags and sometimes becomes unresponsive.", "label": "complaint"}
+{"text": "This would help us comply with regulations", "label": "other"}
+{"text": "No option to disable auto-capitalization", "label": "complaint"}
+{"text": "App loses connection in low signal", "label": "bug"}
+{"text": "App freezes when using split screen", "label": "bug"}
+{"text": "No option to disable typing sounds", "label": "complaint"}
+{"text": "Please add a minimal mode for distraction-free work", "label": "feature_request"}
+{"text": "The new UI animations are smooth", "label": "praise"}
+{"text": "Bluetooth connection drops randomly", "label": "bug"}
+{"text": "Please add a focus mode for reading", "label": "feature_request"}
+{"text": "I really appreciate the attention to detail in the user interface.", "label": "praise"}
+{"text": "App won't remember sidebar width", "label": "bug"}
+{"text": "How do I change the default export format ?", "label": "question"}
+{"text": "No way to export my reading list", "label": "complaint"}
+{"text": "The new collaboration features are seamless", "label": "praise"}
+{"text": "No option to disable auto-play videos", "label": "complaint"}
+{"text": "Why is there no iPad optimization ?", "label": "complaint"}
+{"text": "The new search indexing is lightning fast", "label": "praise"}
+{"text": "No option to disable auto-capitalization", "label": "complaint"}
+{"text": "This would help us comply with regulations", "label": "other"}
+{"text": "Press Ctrl+0 to reset zoom level", "label": "usage_tip"}
+{"text": "How do I change the default export format ?", "label": "question"}
+{"text": "Use Ctrl+Shift+P to open private window", "label": "usage_tip"}
+{"text": "The new security features are robust", "label": "praise"}
+{"text": "The login button does not work on mobile devices.", "label": "bug"}
+{"text": "Use Alt+Tab to switch between open tabs", "label": "usage_tip"}
+{"text": "App crashes when recording video", "label": "bug"}
+{"text": "No option to disable typing sounds", "label": "complaint"}
+{"text": "Use Ctrl+Shift+P to open private window", "label": "usage_tip"}
+{"text": "I am unhappy with the way my complaint was handled.", "label": "complaint"}
+{"text": "This would help us meet accessibility standards", "label": "other"}
+{"text": "Please add a minimal mode for distraction-free work", "label": "feature_request"}
+{"text": "The new file compression is efficient", "label": "praise"}
+{"text": "App won't remember sidebar width", "label": "bug"}
+{"text": "App crashes when recording video", "label": "bug"}
+{"text": "I have no strong feelings about this feature.", "label": "other"}
+{"text": "The new search indexing is lightning fast", "label": "praise"}
+{"text": "The admin console docs need updating", "label": "documentation"}
+{"text": "Use Ctrl+Shift+M to toggle dark mode", "label": "usage_tip"}
+{"text": "Why is there no import from Dropbox ?", "label": "complaint"}
+{"text": "Why is there no import from Google Keep ?", "label": "complaint"}
+{"text": "Our analytics show users need this", "label": "other"}
+{"text": "How do I change the app language ?", "label": "question"}
+{"text": "Why is there no import from Dropbox ?", "label": "complaint"}
+{"text": "Press Ctrl+Shift+S to save all tabs", "label": "usage_tip"}
+{"text": "How do I change the app icon ?", "label": "question"}
+{"text": "The new performance metrics are impressive", "label": "praise"}
+{"text": "Use Ctrl+K for quick search anywhere", "label": "usage_tip"}
+{"text": "No option to disable auto-capitalization", "label": "complaint"}
+{"text": "No option to disable typing sounds", "label": "complaint"}
+{"text": "How do I change the app language ?", "label": "question"}
+{"text": "Our users would adopt this faster", "label": "other"}
+{"text": "How do I change the default font ?", "label": "question"}
+{"text": "App won't remember dark mode preference", "label": "bug"}
+{"text": "Please add a distraction-free writing mode", "label": "feature_request"}
+{"text": "Our users would adopt this feature quickly", "label": "other"}
+{"text": "No option to disable auto-capitalization", "label": "complaint"}
+{"text": "Press Ctrl+0 to reset zoom level", "label": "usage_tip"}
+{"text": "App won't sync over cellular", "label": "bug"}
+{"text": "App crashes when recording video", "label": "bug"}
+{"text": "This would help us meet accessibility standards", "label": "other"}
+{"text": "The new privacy controls are excellent", "label": "praise"}
+{"text": "Please add a focus mode for reading", "label": "feature_request"}
+{"text": "Please add a focus mode for reading", "label": "feature_request"}
+{"text": "Can I use Windows Hello for login ?", "label": "question"}
+{"text": "Please add a minimal mode for distraction-free work", "label": "feature_request"}
+{"text": "Our users find this feature essential", "label": "other"}
+{"text": "App freezes when using split screen", "label": "bug"}
+{"text": "The new file preview is lightning fast", "label": "praise"}
+{"text": "App won't remember preferred camera", "label": "bug"}
+{"text": "Add support for custom markdown themes", "label": "feature_request"}
+{"text": "How do I change the default export format ?", "label": "question"}
+{"text": "Can I use Windows Hello for login ?", "label": "question"}
+{"text": "Why is there no import from Dropbox ?", "label": "complaint"}
+{"text": "The new file compression is efficient", "label": "praise"}
+{"text": "Is there a way to sync with iCloud ?", "label": "question"}
+{"text": "Notifications don't appear on Android 12", "label": "bug"}
+{"text": "The enterprise setup docs need updating", "label": "documentation"}
+{"text": "Our analytics show users need this", "label": "other"}
+{"text": "Press Ctrl+Shift+S to save all tabs", "label": "usage_tip"}
+{"text": "App crashes when recording video", "label": "bug"}
+{"text": "Press Ctrl+0 to reset zoom level", "label": "usage_tip"}
+{"text": "This would help us comply with regulations", "label": "other"}
+{"text": "App freezes when using split screen", "label": "bug"}
+{"text": "Can I use Windows Hello for login ?", "label": "question"}
+{"text": "Migration docs don't cover cloud scenarios", "label": "documentation"}
+{"text": "App won't remember sidebar width", "label": "bug"}
+{"text": "Press Ctrl+0 to reset zoom level", "label": "usage_tip"}
+{"text": "App freezes when using split screen", "label": "bug"}
+{"text": "App crashes when recording video", "label": "bug"}
+{"text": "The web component docs need examples", "label": "documentation"}
+{"text": "This would help us scale operations", "label": "other"}
+{"text": "The admin console docs need updating", "label": "documentation"}
+{"text": "Our analytics show users need this", "label": "other"}
+{"text": "Is there a way to sync with iCloud ?", "label": "question"}
+{"text": "Please add a minimal mode for distraction-free work", "label": "feature_request"}
+{"text": "Please add a minimal mode for distraction-free work", "label": "feature_request"}
+{"text": "Too many steps to complete basic tasks", "label": "complaint"}
+{"text": "The admin console docs need updating", "label": "documentation"}
+{"text": "The accessibility features are top-notch", "label": "praise"}
+{"text": "The new search indexing is lightning fast", "label": "praise"}
+{"text": "The changelog doesn't list all fixes", "label": "documentation"}
+{"text": "Is there a way to sync with iCloud ?", "label": "question"}
+{"text": "App crashes when recording video", "label": "bug"}
+{"text": "The new search indexing is lightning fast", "label": "praise"}
+{"text": "The mobile integration docs are lacking", "label": "documentation"}
+{"text": "Why is there no import from Google Keep ?", "label": "complaint"}
+{"text": "The new search algorithm works great", "label": "praise"}
+{"text": "Please add a minimal mode for distraction-free work", "label": "feature_request"}
+{"text": "Press Ctrl+0 to reset zoom level", "label": "usage_tip"}
+{"text": "App won't remember sidebar width", "label": "bug"}
+{"text": "The new search indexing is lightning fast", "label": "praise"}
+{"text": "The mobile integration docs are lacking", "label": "documentation"}
+{"text": "App won't remember sidebar width", "label": "bug"}
+{"text": "Can I integrate with Zapier ?", "label": "question"}
+{"text": "Team decision is pending.", "label": "other"}
+{"text": "Our users would adopt this faster", "label": "other"}
+{"text": "Can I use my own storage provider ?", "label": "question"}
+{"text": "Add support for custom watermarks", "label": "feature_request"}
+{"text": "The admin console docs need updating", "label": "documentation"}
+{"text": "Use Ctrl+Shift+P to open private window", "label": "usage_tip"}
+{"text": "Use Ctrl+Shift+P to open private window", "label": "usage_tip"}
+{"text": "Add support for custom syntax highlighting", "label": "feature_request"}
+{"text": "No option to disable auto-capitalization", "label": "complaint"}
+{"text": "Add support for custom keyboard layouts", "label": "feature_request"}
+{"text": "Would love custom font options", "label": "feature_request"}
+{"text": "Our users consistently ask for this", "label": "other"}
+{"text": "We are reviewing multiple platforms for our workflow.", "label": "other"}
+{"text": "Unacceptable performance on older devices", "label": "complaint"}
+{"text": "You've outdone yourselves with this release", "label": "praise"}
+{"text": "The enterprise API docs are incomplete", "label": "documentation"}
+{"text": "The new file compression is efficient", "label": "praise"}
+{"text": "Press Ctrl+Shift+N to create new note", "label": "usage_tip"}
+{"text": "The new security features are reassuring", "label": "praise"}
+{"text": "The enterprise API docs are incomplete", "label": "documentation"}
+{"text": "Press F5 to refresh without cache", "label": "usage_tip"}
+{"text": "The new file compression is efficient", "label": "praise"}
+{"text": "The admin console docs need updating", "label": "documentation"}
+{"text": "Use Ctrl+Enter to send messages faster", "label": "usage_tip"}
+{"text": "The admin console docs need updating", "label": "documentation"}
+{"text": "App won't remember dark mode setting", "label": "bug"}
+{"text": "App won't remember sidebar width", "label": "bug"}
+{"text": "Please add a minimal mode for distraction-free work", "label": "feature_request"}
+{"text": "How do I report a bug ?", "label": "question"}
+{"text": "The new file organization is intuitive", "label": "praise"}
+{"text": "Add ability to export as CSV", "label": "feature_request"}
+{"text": "Please add a tab groups feature", "label": "feature_request"}
+{"text": "The FAQ needs more troubleshooting info", "label": "documentation"}
+{"text": "Implement a dark theme for OLED screens", "label": "feature_request"}
+{"text": "App freezes when using screen reader", "label": "bug"}
+{"text": "This would help us comply with regulations", "label": "other"}
+{"text": "Our analytics show users need this", "label": "other"}
+{"text": "Why is there no batch delete option ?", "label": "complaint"}
+{"text": "App freezes when using split screen", "label": "bug"}
+{"text": "Press Ctrl+Shift+S to save all tabs", "label": "usage_tip"}
+{"text": "Our users would adopt this faster", "label": "other"}
+{"text": "The enterprise API docs are incomplete", "label": "documentation"}
+{"text": "The new file compression is efficient", "label": "praise"}
+{"text": "This would help us meet accessibility standards", "label": "other"}
+{"text": "Our analytics show this would help", "label": "other"}
+{"text": "Add support for custom syntax highlighting", "label": "feature_request"}
+{"text": "The admin console docs need updating", "label": "documentation"}
+{"text": "The mobile integration docs are confusing", "label": "documentation"}
+{"text": "The web version docs are lacking", "label": "documentation"}
+{"text": "Double-tap the home button for quick actions", "label": "usage_tip"}
+{"text": "Please add a focus mode for reading", "label": "feature_request"}
+{"text": "App freezes when using split screen", "label": "bug"}
+{"text": "Please add a focus mode for writing", "label": "feature_request"}
+{"text": "No way to export my bookmarks", "label": "complaint"}
+{"text": "App won't remember dark mode setting", "label": "bug"}
+{"text": "App won't remember login credentials", "label": "bug"}
+{"text": "Press Ctrl+0 to reset zoom level", "label": "usage_tip"}
+{"text": "Press Ctrl+Shift+Del to clear recent history", "label": "usage_tip"}
+{"text": "App won't remember sidebar width", "label": "bug"}
+{"text": "Can I use Windows Hello for login ?", "label": "question"}
+{"text": "Password reset emails are not being sent.", "label": "bug"}
+{"text": "No option to disable typing sounds", "label": "complaint"}
+{"text": "Why is there no offline mode ?", "label": "complaint"}
+{"text": "How do I change the default export format ?", "label": "question"}
+{"text": "The error codes need better explanations", "label": "documentation"}
+{"text": "Is there a way to sync with iCloud ?", "label": "question"}
+{"text": "How do I change the default export format ?", "label": "question"}
+{"text": "App won't remember sidebar width", "label": "bug"}
+{"text": "How do I change the app language ?", "label": "question"}
+{"text": "Our users would adopt this faster", "label": "other"}
+{"text": "Add support for custom syntax highlighting", "label": "feature_request"}
+{"text": "The new security features are reassuring", "label": "praise"}
+{"text": "Our users would adopt this faster", "label": "other"}
+{"text": "No option to disable auto-play gifs", "label": "complaint"}
+{"text": "Press Ctrl+0 to reset zoom level", "label": "usage_tip"}
+{"text": "Our analytics show users need this", "label": "other"}
+{"text": "Press Ctrl+0 to reset zoom level", "label": "usage_tip"}
+{"text": "No option to disable auto-capitalization", "label": "complaint"}
+{"text": "Add support for custom keyboard layouts", "label": "feature_request"}
+{"text": "The dark mode setting does not persist after restarting the app.", "label": "bug"}
+{"text": "Add support for custom markdown themes", "label": "feature_request"}
+{"text": "Use Ctrl+Tab to cycle through tabs", "label": "usage_tip"}
+{"text": "How do I change the default export format ?", "label": "question"}
+{"text": "Use Ctrl+Shift+P to open private window", "label": "usage_tip"}
+{"text": "How do I disable notifications ?", "label": "question"}
+{"text": "Why is there no import from Evernote ?", "label": "complaint"}
+{"text": "No option to disable typing sounds", "label": "complaint"}
+{"text": "Press Ctrl+0 to reset zoom level", "label": "usage_tip"}
+{"text": "Our analytics show users need this", "label": "other"}
+{"text": "The new search indexing is lightning fast", "label": "praise"}
+{"text": "Can I use my own authentication server ?", "label": "question"}
+{"text": "Is there a way to sync with iCloud ?", "label": "question"}
+{"text": "Add support for custom markdown themes", "label": "feature_request"}
+{"text": "The new features have made my workflow so much easier.", "label": "praise"}
+{"text": "App won't remember dark mode setting", "label": "bug"}
+{"text": "Add support for custom keyboard shortcuts", "label": "feature_request"}
+{"text": "Can I use Windows Hello for login ?", "label": "question"}
+{"text": "This would reduce our training time", "label": "other"}
+{"text": "App freezes during video playback", "label": "bug"}
+{"text": "This would help us comply with regulations", "label": "other"}
+{"text": "Please add a read receipts feature", "label": "feature_request"}
+{"text": "The admin console docs need updating", "label": "documentation"}
+{"text": "The mobile integration docs are lacking", "label": "documentation"}
+{"text": "No option to disable animated backgrounds", "label": "complaint"}
+{"text": "App won't remember dark mode setting", "label": "bug"}

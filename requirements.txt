@@ -1,0 +1,11 @@
+transformers==4.53.0
+datasets>=2.18.0
+torch
+seqeval
+streamlit
+scikit-learn
+pandas
+fsspec<=2025.3.0
+accelerate>=0.26.0
+tqdm
+plotly 
